@@ -1,0 +1,8 @@
+feedparser
+requests
+gspread
+google-auth
+google-api-python-client
+python-dotenv
+google-genai
+schedule

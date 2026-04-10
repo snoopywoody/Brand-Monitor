@@ -1,0 +1,7 @@
+.env
+credentials.json
+seen_links.json
+venv/
+__pycache__/
+*.pyc
+base_script.py
